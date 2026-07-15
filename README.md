@@ -1,7 +1,7 @@
 Telephonie reauseau - CISCO Packet 
 
  Desciption du projet
- Ce projet  la présente comment dans une entreprise, les employés peuvent discuté gratuitement et de manière securisé grace a des telephone ip.  L'objectif principal est de reussir a effectuer des appels grace a des telephones IP.
+ Ce projet  la présente comment dans une entreprise, les employés peuvent discuté gratuitement et de manière securisé grace a des telephones ip des téléphone qui marches grace a des adresses ip et un numéro.  L'objectif principal est de reussir a effectuer des appels grace a des telephones IP.
 
  🖼️ Topologie Réseau
  veillez consulter capture d'écran
