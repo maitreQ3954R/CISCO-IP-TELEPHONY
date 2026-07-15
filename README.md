@@ -1,4 +1,5 @@
-🌐 Telephonie reauseau - CISCO Packet Tracer
+Telephonie reauseau - CISCO Packet 
+
  Desciption du projet
  Ce projet  la présente comment dans une entreprise, les employés peuvent discuté gratuitement et de manière securisé grace a des telephone ip.  L'objectif principal est de reussir a effectuer des appels grace a des telephones IP.
 
