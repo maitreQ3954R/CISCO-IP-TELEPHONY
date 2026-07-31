@@ -4,7 +4,8 @@ Telephonie reauseau - CISCO Packet
  Ce projet  la présente comment dans une entreprise, les employés peuvent discuté gratuitement et de manière securisé grace a des telephones ip des téléphone qui marches grace a des adresses ip et un numéro.  L'objectif principal est de reussir a effectuer des appels grace a des telephones IP.
 
  🖼️ Topologie Réseau
- veillez consulter capture d'écran et si vous ne comptez pas tester le projet.pkt consulter consulter les capture d'écran s
+ veillez consulter capture d'écran 
+ si vous ne comptez pas tester le projet.pkt consulter consulter les capture d'écrans
 
  🛠️ Technologies et Protocoles Configurés
  .DHCP :** DEPLOIMENT D'UN SERVER QUI ASSURE L'ADRESSAGE A TOUS les téléphones
