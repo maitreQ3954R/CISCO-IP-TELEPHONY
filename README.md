@@ -16,6 +16,6 @@ Telephonie reauseau - CISCO Packet
  1. telecharger et ouvrir ciscoprojetdeuxieme.pkt
  2. fais des ping via les enveloppes  (PDU) en hautentres les pc de differents routers pour testé la connectivité grace au envelope en haut ( le premier fais souvent fail) sa fera succesfull
  3. cliquez sur un ip phone 1allez y dans l'anget (GUI) puis faite la meme chose sur un autre telephone puis regarde a droite vous verez le numero de telephone entez le dans le deuxime telephone puis appuiyer sur la partie rouge du telephone et cela lancera l'appele vous n'aurez que a repondre et voila (exemple cliquez sur ip phone 1 son numero est 1101 entrez le dans ip phone 2).
- 4. pour acceder au switch ou au router username : levy et le enable secret cisco
+ 4. pour acceder au switch ou au router username : levy et le enable secret cisco (regardez image_2026-08-06_192624116.png) dans les captures d'écran).
  
  
